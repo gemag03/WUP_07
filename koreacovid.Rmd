@@ -59,12 +59,20 @@ Looking at the count graph we see not many are dead. There are about 1400 males 
 
   
 
-
-
-
-
-  
 ## Numerical results
+
+
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+
+Looking at the results we see all the people alive are about 56% females and 44% males. The those who are dead are 64% males and 36% females.In the second chart we see 98.7% females are alive and 97% males are alive. Those dead are only 1.4% females and the males are 3%. 
+
+
+
 
 
 ## Inferential results 
