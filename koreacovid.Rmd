@@ -28,7 +28,10 @@ state of a patient must be died or alive - we adjust that as well
 # Your Question - Is dying independent of sex?
 
 
+## Methods
 
+
+We will analyze the Sex of the patients and the result if they are alive or dead. I will use the variables in the collection of cat~cat. Using the helper file, it will help us get the answer to our problem.
 
 
 
