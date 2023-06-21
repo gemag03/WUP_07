@@ -90,3 +90,7 @@ We see 1831 females are alive and 1411 males are alive . Our p value is 1/1000 a
 
 ## Conclusions
 
+
+We used the cat~cat helper file to grab codes and copy them to our file. We would change what needed to be changed to fit our kRdata. We first saw the count and percentage of females and males alive or dead in a gg plot. We saw that males had a higher death percentage than females. In our numerical results we also were able to see how the number of males alive was less than the females alive. The odds ratio helped prove even more that females living are two times greater than males living.  
+
+
